@@ -1,0 +1,1 @@
+# Learning professional project setup with mongo and node 
